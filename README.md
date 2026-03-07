@@ -3,7 +3,7 @@
 ## clone repo
 
 ```sh
-git clone https://github.com/wachira90/nginx-proxy-manager
+git clone https://github.com/wachira90/nginx-proxy-manager.git
 
 cd nginx-proxy-manager
 ```
